@@ -11,7 +11,7 @@ class AxiosService {
   }
 
   getBaseUrl() {
-    return "https://zing-mp3-api-1999.herokuapp.com/api/";
+    return "https://zing-mp3-api-sigma.vercel.app/api/";
   }
 
   getHttpConfig() {
